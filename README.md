@@ -1,4 +1,6 @@
 # CVE-2018-15473-Exploit
+This is patched exploit of https://github.com/Rhynorater/CVE-2018-15473-Exploit for usining with new python-paramiko
+
 On August 15th, 2018, the following advisory was posted on the OSS-Security list: [http://openwall.com/lists/oss-security/2018/08/15/5](http://openwall.com/lists/oss-security/2018/08/15/5)
 
 The [ShelIntel team](https://www.shellntel.com/) decided to invest some time and write an exploit for this vulnerability. The exploit below has the following features:
