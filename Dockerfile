@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:edge 
 LABEL maintainer "Ilya Glotov <ilya@ilyaglotov.com>"
 
 RUN apk add --update --no-cache --virtual .deps build-base \
